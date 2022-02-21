@@ -1,0 +1,14 @@
+.footer div {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    margin-bottom: 0;
+    background-color: #38015c;
+    padding: 0.25rem;
+}
+
+.footer p {
+    text-align: center;
+    color:  #9f5ccc;
+}

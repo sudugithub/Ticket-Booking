@@ -1,0 +1,43 @@
+.movies div {
+    background-color:  #38015c;
+    margin: 5px auto;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-radius: 10px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.movies div h1 {
+    margin-left: 1.5rem;
+    color: #d1b1e7;
+    font-style: normal;
+}
+
+.movies {
+    color: #e8d8f3;
+    font-style: italic;
+}
+
+.movies span {
+    color: #d1b1e7;
+    font-size: 2rem;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.movies div button {
+    margin-top: 1.5rem;
+    margin-right: 1.5rem;
+    color: white;
+    background-color: #9f5ccc;
+    border: 1px solid #9f5ccc;
+    border-radius: 4px;
+    padding: 0.5rem 2.5rem;
+}
+
+.movies div button:hover {
+    background-color: #873abb;
+    border-color: #873abb;
+}

@@ -1,0 +1,16 @@
+.home div {
+    margin: 10px auto;
+    width: 60%;
+    padding: 1rem;
+    background-color: #38015c;
+    color: #c291e2;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+.home div h1 {
+    font-style: italic;
+}
